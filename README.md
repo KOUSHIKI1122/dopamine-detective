@@ -1,6 +1,6 @@
 # Dopamine Detective
 
-Dopamine neurons don't just say "reward!", they say "that was better or worse than I expected." This tiny temporal-difference learning model reproduces a famous result: the surprise signal starts at the reward, then migrates back to the cue that predicts it, and dips below baseline when an expected reward doesn't show up.
+This tiny temporal-difference learning model reproduces a famous result: the surprise signal starts at the reward, then migrates back to the cue that predicts it, and dips below baseline when an expected reward doesn't show up.
 
 ![dopamine detective](dopamine_detective.png)
 
